@@ -23,3 +23,27 @@ Gözlənilən Nəticə:
 Formatlaşdırılmış tarix: 16/06/2016. Yuxarıda göstərilən tarix üçün həftənin son günü: 18/06/2016
 
 
+6) İstifadəçidən iki tarix alın (`yyyy-MM-dd` formatında). Bu tarixlər arasındakı fərqi gün olaraq hesablayın və çıxışda göstərin.
+
+Nümunə çıxış:
+Birinci tarixi daxil edin: 2024-01-01
+İkinci tarixi daxil edin: 2025-04-29
+Bu tarixlər arasında 484 gün fərq var.
+
+
+7) İstifadəçidən gələcəkdə baş verəcək bir hadisənin tarixini alın. İstifadəçiyə bu tarixə neçə gün qaldığını göstərin. Əgər tarix keçmişdədirsə, xəbərdarlıq göstərin.
+
+Nümunə çıxış:
+Hadisənin tarixi (yyyy-MM-dd): 2025-05-10
+Bu tarixə 11 gün qalıb.
+
+
+8) İstifadəçidən bir hadisənin başlama və bitmə tarixlərini və saatlarını alın (`yyyy-MM-dd HH:mm` formatında). Proqram bu hadisənin neçə saat çəkdiyini hesablamalıdır.
+
+Nümunə çıxış:
+Başlama vaxtı: 2025-04-29 14:00
+Bitmə vaxtı: 2025-04-29 18:30
+Hadisə müddəti: 4.5 saat
+
+
+
